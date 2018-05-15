@@ -27,7 +27,7 @@ This trend never seems to find any sort of consistency and is always moving.
 
 I was unable to find reliable information regarding average income in Ann Arbor for the various levels of education. Adding that in will be interesting.
 
-This data was used in a school paper I later wrote advocating for state funded college education. Noting this data which shows the economic impact that education can have. This paper can be found here labeled [a relative link](tuition-free.docx)
+This data was used in a school paper I later wrote advocating for state funded college education. Noting this data which shows the economic impact that education can have. This paper can be found [here](tuition-free.docx)
 
 Sources:
 https://data.bls.gov/timeseries/LAUMT261146000000003?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
